@@ -116,5 +116,5 @@ module.exports = {
    deleteAbc,
    sortArray,
    buscoInterseccion,
-};
+}
 
